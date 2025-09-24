@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Brizesh  
+# Hi there 👋, I'm Brijesh  
 
 ### 🚀 UI/UX Designer & Frontend Developer  
 
@@ -20,7 +20,7 @@ Skilled in turning ideas into functional and elegant interfaces with:
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/pris1345">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourusername">
